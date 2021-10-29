@@ -1,1 +1,1 @@
-# rock-paper-scissor2-bolierplate
+# rock-paper-scissors
